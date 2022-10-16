@@ -1,0 +1,32 @@
+{
+    "animes": [
+        {
+            "title": "Naruto",
+            "description": "Ninja",
+            "episode":"200",
+            "year_released": "Sep 10, 2022",
+            "id": 1
+        },
+        {
+            "title": "One Piece",
+            "description": "Pirate",
+            "episode":"200",
+            "year_released": "Sep 11, 2022",
+            "id": 2
+        },
+        {
+            "title": "Dragonball",
+            "description": "saiyan",
+            "episode":"200",
+            "year_released": "Sep 12, 2022",
+            "id": 3
+        },
+        {
+            "title": "Bleach",
+            "description": "Shinigami",
+            "episode":"200",
+            "year_released": "Sep 14, 2022",
+            "id": 4
+        }
+    ]
+}
